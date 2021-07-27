@@ -1,0 +1,2 @@
+.App,.EndScreen,.Menu,.Quiz{display:flex;justify-content:center;align-items:center;flex-direction:column}.EndScreen,.Menu,.Quiz{width:500px;height:500px;border-radius:10px;background-color:#20b2aa}.EndScreen button,.Menu button,.Quiz button{width:300px;height:50px;margin:5px;border:none;border-radius:5px;font-size:20px;cursor:pointer}.Menu,.Quiz{color:#faebd7}.options{width:100%;display:flex;justify-content:center;flex-direction:column;align-items:center}
+/*# sourceMappingURL=main.d2becb7e.chunk.css.map */
